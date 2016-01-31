@@ -1,0 +1,1 @@
+12,1234,licht;7,1236,radio;16,1238,blabla;5,1240,blub;2,12,status;27,1222,Test;23,9999,gabriel;234,23462,klo
